@@ -19,5 +19,3 @@ Bot for bridging new holograph nft Building - https://app.holograph.xyz/ </br>
 
 
 <h2>donate</h2> evm 0x23B2B1145fDebc673A69628c7Fb86f7180292570
-
-<h2>тг</h2> https://t.me/iliocka
