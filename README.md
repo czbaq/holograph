@@ -18,7 +18,6 @@ Bot for bridging new holograph nft Building - https://app.holograph.xyz/ </br>
 2. NFT search by networks and bridge to a random/selected network </br>
 
 
-<h2>donate</h2> evm 0xFD6594D11b13C6b1756E328cc13aC26742dBa868
-<h2>donate</h2> trc20 TMmL915TX2CAPkh9SgF31U4Trr32NStRBp
+<h2>donate</h2> evm 0x23B2B1145fDebc673A69628c7Fb86f7180292570
 
 <h2>тг</h2> https://t.me/iliocka
